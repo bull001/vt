@@ -1,0 +1,57 @@
+$c_start央视$c_end
+CCTV-1综合,http://117.169.72.135:8080/PLTV/88888888/224/3221225618/index.m3u8
+CCTV-2财经,http://117.169.72.135:8080/PLTV/88888888/224/3221225631/index.m3u8
+CCTV-3综艺,http://117.169.72.135:8080/PLTV/88888888/224/3221225632/index.m3u8
+CCTV-4中文国际,http://117.169.72.135:8080/PLTV/88888888/224/3221225633/index.m3u8
+CCTV-1综合,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
+CCTV-2财经,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
+CCTV-3综艺,http://111.40.205.87/PLTV/88888888/224/3221225606/index.m3u8
+CCTV-4中文国际,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
+CCTV-5体育,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226256/3.m3u8
+CCTV-5体育,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226257/3.m3u8
+CCTV-体育赛事,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
+CCTV-6电影,http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
+CCTV-7国防军事,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
+CCTV-8电视剧,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8
+CCTV-9纪录,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
+CCTV-10科教,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8
+CCTV-11戏曲,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8
+CCTV-12社会与法,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
+CCTV-13新闻,http://119.167.231.111/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226062/index.m3u
+CCTV-13新闻,http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+CCTV-13新闻,http://223.110.241.130:6610/gitv/live1/G_CCTV-13-HQ/.m3u8
+CCTV-13新闻,http://hw-m-l.cztv.com:80/channels/lantian/channel16/1080p.m3u8
+CCTV-13新闻,http://111.40.205.87/PLTV/88888888/224/3221225599/index.m3u8
+CCTV-14少儿,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
+CCTV-15音乐,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
+CCTV-17农业农村,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
+
+$c_start港澳台$c_end
+有线新闻台,http://prdsecurelive.ainemo.com/live/2020sanwu.flv#http://47.240.103.169:10080/vhls/kGSlynjWg/kGSlynjWg_live.m3u8#http://47.240.103.169:10080/vhls/kGSlynjWg/kGSlynjWg_live.m3u8#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
+有线电影台,http://prdsecurelive.ainemo.com/live/yx09hitv.flv#http://47.240.103.169:10080/vhls/tescXnjWR/tescXnjWR_live.m3u8
+综合娱乐,http://47.240.103.169:10080/vhls/8PcEynCZg/8PcEynCZg_live.m3u8
+无线新闻,http://47.240.103.169:10080/vhls/hGRqunjWg/hGRqunjWg_live.m3u8#http://www.liveviptv.xyz/tv/tvb.php?vid=13#p8p://0198.02686.cc:16871/5d6000ef00075fa1eddd111e1452c6bc.ts
+无线财经,http://prdsecurelive.ainemo.com/live/225cjcj.flv
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+香港卫视,http://cctvalih5ca.v.myalicdn.com/cstv/xianggangweishi_2/index.m3u8
+凤凰资讯,http://qlive.fengshows.cn/live720p/PIN.flv#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
+凤凰中文,http://qlive.fengshows.cn/live720p/PCC.flv#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8
+凤凰香港,http://qlive.fengshows.cn/live720p/PHK.flv
+中天新聞,http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
+东森新聞,http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+東森洋片,http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
+東森電影,http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+龍祥時代電影,http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
+Fox Action Movies,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+LS Time 電影,http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
+Warner TV,http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
+FX 中文,http://111.13.111.192/125.227.198.89:8027
+寰宇新聞,http://111.13.111.192/125.227.198.89:8011
+寰宇財經,http://111.13.111.192/125.227.198.89:8026
+中视新闻,http://111.13.111.192/125.227.198.89:8021
+凤凰资讯,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
+凤凰资讯,http://223.110.245.137/PLTV/3/224/3221226923/3.m3u8
+凤凰中文,http://221.179.217.70/PLTV/88888888/224/3221225942/3.m3u8
+凤凰香港,http://223.110.245.136/PLTV/3/224/3221226975/3.m3u8
+凤凰中文,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
