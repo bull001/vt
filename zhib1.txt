@@ -57,6 +57,7 @@ FX 中文,http://111.13.111.192/125.227.198.89:8027
 凤凰中文,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 
 $c_start福利台$c_end
+HOT,http://ourtv.homeunix.com:9502/twhkokk/hot/.ts
 松视1HD,https://717616144.r.worldssl.net/717616144/tv/ttv11/chunklist_w1523462545.m3u8
 HAPPY幸福,https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w1523462550.m3u8
 成人|快乐频道,https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w1523462550.m3u8 
@@ -65,6 +66,7 @@ HAPPY幸福,https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w15234
 松视1台 HD,https://717616144.r.worldssl.net/717616144/tv/ttv11/chunklist_w1523462549.m3u8
 Happy,https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w1523462550.m3u8
 超S級！神乳素人娘，http://11216.vod.redtraffic.xyz/ph5c0c6b3928116/play.m3u8 
+香蕉频道,http://ourtv.homeunix.com:9502/twhkokk/xiangjiao/.ts
 松视1欧美版,http://live.redtraffic.xyz:80/fetish.m3u8
 松视2欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
 松视3欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8
